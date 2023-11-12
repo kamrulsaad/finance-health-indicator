@@ -21,7 +21,7 @@ A strong and scalable architecture was the main focus of this project. This proj
 
 - Live Site Link: [Click Here](https://finance-health-indicator-backend.vercel.app/) to see the Live API server.
 - Client side Github Repo: [Click Here](https://github.com/kamrulsaad/finance-health-indicator-frontend) to check my client side github repo for this project.
-- Client side Github Repo: [Click Here](https://github.com/kamrulsaad/finance-health-indicator-backend) to check my client side github repo for this project.
+- Server side Github Repo: [Click Here](https://github.com/kamrulsaad/finance-health-indicator-backend) to check my server side github repo for this project.
 
 ---
 
